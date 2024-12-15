@@ -1,0 +1,43 @@
+{
+  "name": "arraypress/reflector",
+  "version": "1.0.0",
+  "description": "A utility class for PHP reflection operations including property and method inspection and manipulation.",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://github.com/arraypress/reflector/",
+  "authors": [
+    {
+      "name": "David Sherlock",
+      "homepage": "https://arraypress.com/"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ArrayPress\\Utils\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "minimum-stability": "stable",
+  "support": {
+    "issues": "https://github.com/arraypress/reflector/issues",
+    "source": "https://github.com/arraypress/reflector"
+  },
+  "keywords": [
+    "reflection",
+    "utilities",
+    "property-access",
+    "method-access",
+    "reflection-api",
+    "class-inspection",
+    "property-inspection",
+    "method-inspection",
+    "php-reflection",
+    "reflection-utilities"
+  ]
+}
