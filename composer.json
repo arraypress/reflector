@@ -1,4 +1,4 @@
-{
+ {
   "name": "arraypress/reflector",
   "version": "1.0.0",
   "description": "A utility class for PHP reflection operations including property and method inspection and manipulation.",
